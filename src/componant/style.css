@@ -1,0 +1,14 @@
+.Navbar{
+    background-color: #99ccff;
+}
+
+#basic-nav-dropdown{
+    color: #0000ff;
+}
+
+#in{
+    color: #0000ff;
+}
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color:turquoise;
+  }
